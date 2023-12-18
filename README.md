@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Large Language Models, Multimodal Machine Learning and Out-Of-Distribution (OOD) generalization framework with their applications**
 
-- 👨‍💻 All of my projects and research publications are available at [https://github.com/jpsglouzon](https://github.com/jpsglouzon) and at [https://scholar.google.com/citations?user=vagYZRoAAAAJ&hl=en](https://scholar.google.com/citations?user=vagYZRoAAAAJ&hl=en)
+- 👨‍💻 All of my projects and research publications are available at [https://github.com/jpsglouzon?tab=repositories](https://github.com/jpsglouzon?tab=repositories) and at [https://scholar.google.com/citations?user=vagYZRoAAAAJ&hl=en](https://scholar.google.com/citations?user=vagYZRoAAAAJ&hl=en)
 
 - 💬 Ask me about **Machine Learning, Data Mining, RNA Computational Biology and Web Tech**
 - 💬 Connect with me  <a href="https://linkedin.com/in/ean-pierre-shttps://www.linkedin.com/in/j%c3%a9hi-glouzon/" target="blank"><img style="vertical-align:middle"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ean-pierre-shttps://www.linkedin.com/in/j%c3%a9hi-glouzon/" height="30" width="30" /></a>
