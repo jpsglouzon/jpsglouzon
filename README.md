@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm JP</h1>
-<h3 align="center">A passionate data science (ML/DM) practitioner who enjoys tackling research and business challenges</h3>
+<h3 align="center">A passionate of data science and machine learning who enjoys tackling research (mostly RNA related research problems) and business challenges</h3>
 <p align='left'></p><img align="right" alt="Coding" width="400" src="https://github.com/jpsglouzon/jpsglouzon/blob/main/github_profile_img.png"></p>
 
-- 🔭 I’m currently working on [framework for data science innovation, combining the Value Proposition Canvas, the Business Model Canvas with the CRISP-DM data science framework](https://trello.com/b/ViyFPOz5/data-science-innovation-framework)
-
-- 🌱 I’m currently learning **Large Language Models, Multimodal Machine Learning and Out-Of-Distribution (OOD) generalization framework with their applications**
+- 🌱 I’m deeply interested in **Multimodal Machine Learning, Large Language Models, and Out-Of-Distribution (OOD) generalization/detection framework with their applicationns**
 
 - 👨‍💻 All of my projects and research publications are available at [https://github.com/jpsglouzon?tab=repositories](https://github.com/jpsglouzon?tab=repositories) and at [https://scholar.google.com/citations?user=vagYZRoAAAAJ&hl=en](https://scholar.google.com/citations?user=vagYZRoAAAAJ&hl=en)
 
