@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about data science and machine learning & Enjoy tackling research (mostly RNA-related research problems) and business challenges</h3>
 <p align='left'></p><img align="right" alt="Coding" width="400" src="https://github.com/jpsglouzon/jpsglouzon/blob/main/github_profile_img.png"></p>
 
-- 🌱 I’m deeply interested in **Multimodal Machine Learning, Large Language Models, Out-Of-Distribution (OOD) generalization/detection frameworks** with their applications in **RNA biology & therapeutics, RNA structure-function understanding and Natural Language Processing tasks**. One of the things, I am currently working on is the **[DMFE model](https://github.com/jpsglouzon/denoising_mfe)**, a deep multimodal representation for denoising energy-based RNA secondary structure prediction and for discovering novel RNA.
+- 🌱 I’m deeply interested in **Multimodal Machine Learning, Large Language Models, Out-Of-Distribution (OOD) generalization/detection frameworks** with their applications in **RNA biology & therapeutics, RNA structure-function understanding and Natural Language Processing tasks**. One of the things I am currently working on is the **[DMFE model](https://github.com/jpsglouzon/denoising_mfe)**, a deep multimodal representation for denoising energy-based RNA secondary structure prediction and for discovering novel RNA.
 
 - **Turning ideas and technologies** into **products** using **Web technologies** is also my passion, for instance **[Researchout](researchout.com)** a search engine helping students find research (co)supervisors for their graduate studies, or **[Présence](presence-emo.web.app)**, a web application to manage day-care service of a school.
 
