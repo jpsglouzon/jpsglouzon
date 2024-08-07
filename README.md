@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm JP</h1>
-<h3 align="center">Passionate about data science and machine learning & Enjoy tackling research (mostly RNA-related research problems) and business challenges</h3>
+<h3 align="center">Passionate about data science and machine learning & enjoy tackling <del>natural</del> biological language processing and understanding problems, and business challenges</h3>
 <p align='left'></p><img align="right" alt="Coding" width="400" src="https://github.com/jpsglouzon/jpsglouzon/blob/main/github_profile_img.png"></p>
 
 - 🌱 I’m deeply interested in **Multimodal Machine Learning, Large Language Models, Out-Of-Distribution (OOD) generalization/detection frameworks** with their applications in **RNA biology & therapeutics, RNA structure-function understanding and Natural Language Processing tasks**. One of the things I am currently working on is the **[DMFE model](https://github.com/jpsglouzon/denoising_mfe)**, a deep multimodal representation for denoising energy-based RNA secondary structure prediction and for discovering novel RNA.
 
-- **Turning ideas and technologies** into **products** using **Web technologies** is also my passion, for instance **[Researchout](researchout.com)** a search engine helping students find research (co)supervisors for their graduate studies, or **[Présence](presence-emo.web.app)**, a web application to manage day-care service of a school.
+- **Turning ideas**, using **web and cloud technologies**, into **proof of concept and products** for solving business problems is also my passion: **[Researchout](https://researchout.com)** a search engine helping students find research (co)supervisors for their graduate studies, **[Présence](https://presence-emo.web.app)**, a web application to manage day-care service of a school, etc.
 
-- 👨‍💻 All of my projects and research publications are available at [https://github.com/jpsglouzon?tab=repositories](https://github.com/jpsglouzon?tab=repositories) and at [https://scholar.google.com/citations?user=vagYZRoAAAAJ&hl=en](https://scholar.google.com/citations?user=vagYZRoAAAAJ&hl=en) 
+- 👨‍💻 All of my projects and research publications are respectively available at [https://github.com/jpsglouzon?tab=repositories](https://github.com/jpsglouzon?tab=repositories) and at [https://scholar.google.com/citations?user=vagYZRoAAAAJ&hl=en](https://scholar.google.com/citations?user=vagYZRoAAAAJ&hl=en) 
 
 - 💬 Ask me about **Machine Learning, Data Mining, RNA Computational Biology and Web Tech**
 - 💬 Connect with me  <a href="https://linkedin.com/in/ean-pierre-shttps://www.linkedin.com/in/j%c3%a9hi-glouzon/" target="blank"><img style="vertical-align:middle"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ean-pierre-shttps://www.linkedin.com/in/j%c3%a9hi-glouzon/" height="30" width="30" /></a>
