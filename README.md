@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm JP</h1>
-<h3 align="center">Driven by a deep curiosity for uncovering patterns in complex data using machine learning, NLP, and advanced analytics—across both scientific research (including biological datasets) and real-world business problems</h3>
+<h3 align="center">Driven by a deep curiosity for uncovering patterns in complex data using machine learning, Deep Learning, NLP, and advanced analytics—across both real-world business problems, and  biomedical scientific research.</h3>
 <p align='left'></p><img align="right" alt="Coding" width="400" src="https://github.com/jpsglouzon/jpsglouzon/blob/main/github_profile_img.png"></p>
+  
+- 🌱 Driven by a deep curiosity for uncovering structure and patterns in complex data, I work at the intersection of **machine learning**, **natural language processing**, and **advanced analytics** across both scientific research and real-world applications. I am particularly interested in using machine learning to extract meaningful, actionable insights from high-dimensional data, revealing latent structure, uncovering non-obvious relationships, and enabling data-driven decision-making in both scientific discovery and business contexts.
 
-- 🌱 I’m driven by a deep interest in **Multimodal Machine Learning**, **Large Language Models**, and **Out-Of-Distribution (OOD) generalization/detection frameworks**, and how they can advance **Natural Language Processing**, **biological sequence modeling**, and specifically **RNA biology**, **structure–function representation**, and **therapeutic design**. Current work includes the **[DMFE model](https://github.com/jpsglouzon/denoising_mfe)** — a deep multimodal learning framework for denoising, energy-based RNA secondary structure prediction, and enabling discovery of novel RNA sequences.
-
-- I’m equally passionate about **turning ideas into real-world solutions***, leveraging **web engineering**, **cloud platforms**, and **machine learning** to deliver functional prototypes and products. Examples include **[Researchout](https://researchout.com)** — a global academic search engine matching students with research supervisors — and **[Présence](https://presence-emo.web.app)**, a production web application for managing the daycare service of a school.
+- My work spans **applied machine learning systems** and **RNA structural biology**. On the scientific side, I focus on RNA structure–function representation and therapeutic design, developing **[DMFE model](https://github.com/jpsglouzon/denoising_mfe)**, a deep multimodal framework for denoising and energy-based RNA secondary structure prediction that enables the discovery of novel RNA sequences. In parallel, I build and deploy machine learning solutions for real-world applications by combining predictive modeling, NLP, web engineering, and cloud platforms, with projects including **[Researchout](https://researchout.com)**, a global academic search engine, and **[Présence](https://presence-emo.web.app)**, a production web application for managing school daycare services.
 
 - 👨‍💻 Selected Projects:
+  - [On the most popular programming languages in Bioinformatics](https://github.com/jpsglouzon/bio-lang-race)  
   - [DMFE](https://github.com/jpsglouzon/denoising_mfe): Deep multimodal model for denoising RNA secondary structure prediction
   - [Researchout](https://researchout.com): A search engine to help students find an appropriate research supervisor for graduate studies  from a list of 100,000+ university professor profiles across the globe
   - [Structurexplor](https://mlrna.shinyapps.io/structurexplor-master/): Web application for analyzing biological sequences and structures
@@ -14,7 +15,9 @@
 
 -  :mortar_board: [Research publications](https://scholar.google.com/citations?user=vagYZRoAAAAJ&hl=en) & [Patents](https://patentscope.wipo.int/search/en/result.jsf?query=FP%3A%28glouzon%29&sortBy=-score)
 
-- 💬 Ask me anything about **Machine Learning**, **Data Mining**, **Natural Language Processing**, **RNA Computational Biology**, and **Web Tech** and connect with me   <a href="https://linkedin.com/in/ean-pierre-shttps://www.linkedin.com/in/j%c3%a9hi-glouzon/" target="blank"><img style="vertical-align:middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ean-pierre-shttps://www.linkedin.com/in/j%c3%a9hi-glouzon/" height="30" width="30" /></a>
+- 💬 Interests: **Machine Learning**, **Data Mining**, **Natural Language Processing**, **Computational Biology**, **Bioinformatics**,**RNA structure-function**, **RNA therapeutics**, and **Web Tech**
+
+-  💬 Let's connect   <a href="https://linkedin.com/in/ean-pierre-shttps://www.linkedin.com/in/j%c3%a9hi-glouzon/" target="blank"><img style="vertical-align:middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ean-pierre-shttps://www.linkedin.com/in/j%c3%a9hi-glouzon/" height="30" width="30" /></a>
 
 <h3 align="left">Languages and Tools</h3>
 <h4 align="left">Machine Learning & Data Mining</h4>
