@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm JP</h1>
-<h3 align="center">Driven by a deep curiosity for uncovering patterns in complex data using machine learning, Deep Learning, NLP, and advanced analytics—across both real-world business problems, and  biomedical scientific research.</h3>
+<h3 align="center">I use data, computational thinking, and machine learning to understand complex systems, solve interdisciplinary problems, and support better decision-making.</h3>
 <p align='left'></p><img align="right" alt="Coding" width="400" src="https://github.com/jpsglouzon/jpsglouzon/blob/main/github_profile_img.png"></p>
   
-- 🌱 Driven by a deep curiosity for uncovering structure and patterns in complex data, I work at the intersection of **machine learning**, **natural language processing**, and **advanced analytics** across both scientific research and real-world applications. I am particularly interested in using machine learning to extract meaningful, actionable insights from high-dimensional data, revealing latent structure, uncovering non-obvious relationships, and enabling data-driven decision-making in both scientific discovery and business contexts.
+- 🌱 I'm fascinated by **finding patterns** in **complex data** and using them **to** better **understand** **how systems work**, **make predictions**, and **support better decisions**. Whether the data comes from biology, business, or human language, I enjoy applying machine learning, deep learning, NLP, and data analytics to turn raw information into meaningful insights.
 
-- My work spans **applied machine learning systems** and **RNA structural biology**. On the scientific side, I focus on RNA structure–function representation and therapeutic design, developing **[DMFE model](https://github.com/jpsglouzon/denoising_mfe)**, a deep multimodal framework for denoising and energy-based RNA secondary structure prediction that enables the discovery of novel RNA sequences. In parallel, I build and deploy machine learning solutions for real-world applications by combining predictive modeling, NLP, web engineering, and cloud platforms, with projects including **[Researchout](https://researchout.com)**, a global academic search engine, and **[Présence](https://presence-emo.web.app)**, a production web application for managing school daycare services.
+- What motivates me most is that the same analytical and computational tools can be applied across very different fields. One day I might be working on RNA structure prediction to advance scientific research, and the next I could be building an AI-powered application or developing analytics that help people make better decisions. Different domains, same mindset: **use data to understand complexity and solve real problems**.
+
+- My work reflects that **mix of research and applied AI**. On the research side, I develop computational methods for RNA structure-function modeling and therapeutic design, including **[DMFE model](https://github.com/jpsglouzon/denoising_mfe)**, a deep multimodal framework for denoising and energy-based RNA secondary structure prediction. On the applied side, I build machine learning solutions by combining predictive modeling, NLP, cloud technologies, and web development. Projects include **[Researchout](https://researchout.com)**, an academic search engine with over 100,000 researcher profiles, and **[Présence](https://presence-emo.web.app)**, a web application for managing school daycare services.
 
 - 👨‍💻 Selected Projects:
-  - [On the most popular programming languages in Bioinformatics](https://github.com/jpsglouzon/bio-lang-race)  
-  - [DMFE](https://github.com/jpsglouzon/denoising_mfe): Deep multimodal model for denoising RNA secondary structure prediction
-  - [Researchout](https://researchout.com): A search engine to help students find an appropriate research supervisor for graduate studies  from a list of 100,000+ university professor profiles across the globe
-  - [Structurexplor](https://mlrna.shinyapps.io/structurexplor-master/): Web application for analyzing biological sequences and structures
-  - [Framework for Data Science and Business Innovation](https://trello.com/templates/project-management/tableau-du-canevas-du-mod%C3%A8le-d%27affaire-%28business-model-canvas%29-vXDLqb2l): Implementation of the Business model Canvas on a Trello Board (+4k copies shared online) 
+  - [On the most popular programming languages in Bioinformatics](https://github.com/jpsglouzon/bio-lang-race)  : 
+  - [DMFE](https://github.com/jpsglouzon/denoising_mfe): Deep multimodal framework for RNA secondary structure prediction and sequence discovery
+  - [Researchout](https://researchout.com): AI-powered academic search engine connecting students with researchers around the world
+  - [Structurexplor](https://mlrna.shinyapps.io/structurexplor-master/): Web application for biological sequence and structural analysis
+  - [Framework for Data Science and Business Innovation](https://trello.com/templates/project-management/tableau-du-canevas-du-mod%C3%A8le-d%27affaire-%28business-model-canvas%29-vXDLqb2l): Business Model Canvas implementation shared by more than 4,000 times
 
 -  :mortar_board: [Research publications](https://scholar.google.com/citations?user=vagYZRoAAAAJ&hl=en) & [Patents](https://patentscope.wipo.int/search/en/result.jsf?query=FP%3A%28glouzon%29&sortBy=-score)
 
-- 💬 Interests: **Machine Learning**, **Data Mining**, **Natural Language Processing**, **Computational Biology**, **Bioinformatics**,**RNA structure-function**, **RNA therapeutics**, and **Web Tech**
+- 💬 Interests:  **Data Science**, **Machine Learning**,**Business Intelligence**, **Natural Language Processing**, **Computational Biology** and, **RNA structure-function**
 
 -  💬 Let's connect   <a href="https://linkedin.com/in/ean-pierre-shttps://www.linkedin.com/in/j%c3%a9hi-glouzon/" target="blank"><img style="vertical-align:middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ean-pierre-shttps://www.linkedin.com/in/j%c3%a9hi-glouzon/" height="30" width="30" /></a>
 
